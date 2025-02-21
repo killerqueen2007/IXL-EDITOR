@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "IXL EDITOR",
+  "version": "1.0.0",
+  "description": "Edit the Questions answered/Time elapsed/SmartScore.",
+  
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.ixl.com/*"
+      ],
+      "js": ["background.js"]
+    }
+  ]
+}
