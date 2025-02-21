@@ -5,7 +5,7 @@ This extension is designed for **Google Chrome**, **Microsoft Edge**, and **Oper
 ### Installation Instructions:
 
 1. **Download the Files**  
-   Download the extension files to your computer.
+   Download the extension files to your computer and **unzip** the folder.
 
 2. **Access Browser Extensions**  
    Open your browser and click on the **Extensions** icon.
