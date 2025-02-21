@@ -14,7 +14,8 @@ This extension is designed for **Google Chrome**, **Microsoft Edge**, and **Oper
    Toggle on **Developer Mode** in the Extensions page.
 
 4. **Install the Extension**  
-   Simply **drag and drop** the downloaded extension file into your browser window.
+   - **Drag and drop** the unzipped extension folder directly into your browser window.  
+   - Alternatively, click **Load unpacked**, navigate to the folder, and select it to complete the installation.
 
 5. **Enjoy!**  
    Visit **IXL** and the extension should be ready for use.
