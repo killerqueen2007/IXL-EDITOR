@@ -21,9 +21,27 @@ This extension is designed for **Google Chrome**, **Microsoft Edge**, and **Oper
 
 ---
 
+### Notable Problems
+
+If you encounter the following error when installing:
+
+> **"Manifest file is missing or unreadable. Could not load manifest."**
+
+This likely means one of the following:  
+- You tried to upload the **zipped** file directly. To fix this, ensure you **extract** the downloaded folder first and then upload the **unzipped** version.  
+- Or, you **did not open the file** after unzipping it. Make sure to open the extracted folder before proceeding.  
+
+---
+
 ### How to Disable the Extension:
 
 If you'd like to stop the extension from editing the page, follow these steps:
 
 1. Go to the **Extensions page** in your browser.
 2. **Turn off** the extension.
+
+---
+
+### Need Help?
+
+If you need assistance, feel free to add me on Discord: **killerqueen2007**
