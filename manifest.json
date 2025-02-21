@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "IXL EDITOR",
+  "name": "IXL Editor",
   "version": "1.0.0",
-  "description": "Edit the Questions answered/Time elapsed/SmartScore.",
+  "description": "Customize your IXL experience by editing the Questions Answered, Time Elapsed, and SmartScore displayed on IXL. Created by killerqueen2007.",
   
   "icons": {
     "16": "icon-16.png",
