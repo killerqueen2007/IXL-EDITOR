@@ -1,4 +1,4 @@
-# How to Use This Extension
+# How to Use This Extensiondhtrf
 
 This extension is designed for **Google Chrome**, **Microsoft Edge**, and **Opera**. Unfortunately, it is **not compatible with Firefox** (as of now).
 
