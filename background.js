@@ -7,7 +7,7 @@ const minTime = 10;
 const maxTime = 59;
 const time = Math.floor(normalizedQ * (maxTime - minTime + 1)) + minTime; // For minutes time, make it look realistic
 
-// QA
+// Questions Answered
 document.querySelectorAll('.statistic-container.problems-attempted').forEach(container => {
 container.innerHTML = `
 <section class="statistic-container problems-attempted" id="yui_3_18_1_1_1740093493083_318">
@@ -18,7 +18,7 @@ container.innerHTML = `
 `;
 });
 
-// T
+// Time
 document.querySelectorAll(`.statistic-container.time-elapsed`).forEach(container => {
   container.innerHTML = `
   <section class="statistic-container time-elapsed">
@@ -46,7 +46,7 @@ document.querySelectorAll(`.statistic-container.time-elapsed`).forEach(container
   `;
   });
   
-// SS
+// SmartScore
 document.querySelectorAll('.statistic-container.smartscore').forEach(container => {
 container.innerHTML = `
 <section class="statistic-container smartscore">
